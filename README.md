@@ -6,6 +6,7 @@
 - [Gary Bernhardt](https://twitter.com/garybernhardt) - Wat https://www.destroyallsoftware.com/talks/wat
 - [Konstantin Kudryashov](https://twitter.com/everzet) - Min-maxing Software Costs https://youtu.be/uQUxJObxTUs
 - [Marco Pivetta](https://twitter.com/Ocramius) - Extremely Defensive PHP https://youtu.be/8d2AtAGJPno
+- [Mark Seemann](https://twitter.com/ploeh) - Functional architecture - The pits of success https://www.youtube.com/watch?v=US8QG9I1XW0
 - [Matthias Verraes](https://twitter.com/mathiasverraes) - Extract Till You Drop https://youtu.be/1_dpOZmKXBw
 - [Matthias Verraes](https://twitter.com/mathiasverraes) - Unbreakable Domain Models https://youtu.be/ZJ63ltuwMaE
 - Misko Hevery - The Clean Code Talks -- Inheritance, Polymorphism, & Testing https://youtu.be/4F72VULWFvc
