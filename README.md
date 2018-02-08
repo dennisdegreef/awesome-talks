@@ -4,6 +4,7 @@
 - [Erik Meijer](https://twitter.com/headinthebox) - One Hacker Way https://youtu.be/FvMuPtuvP5w
 - [Erik Meijer](https://twitter.com/headinthebox) - Category Theory, The essence of interface-based design https://youtu.be/JMP6gI5mLHc
 - [Gary Bernhardt](https://twitter.com/garybernhardt) - Wat https://www.destroyallsoftware.com/talks/wat
+- [Gary Bernhardt](https://twitter.com/garybernhardt) - Ideology https://www.destroyallsoftware.com/talks/ideology
 - [Konstantin Kudryashov](https://twitter.com/everzet) - Min-maxing Software Costs https://youtu.be/uQUxJObxTUs
 - [Marco Pivetta](https://twitter.com/Ocramius) - Extremely Defensive PHP https://youtu.be/8d2AtAGJPno
 - [Mark Seemann](https://twitter.com/ploeh) - Functional architecture - The pits of success https://www.youtube.com/watch?v=US8QG9I1XW0
